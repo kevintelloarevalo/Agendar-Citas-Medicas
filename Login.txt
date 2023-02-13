@@ -1,0 +1,8 @@
+ADMINISTRADOR:
+admin | admin
+SECRETARIA:
+maria | maria
+DOCTOR
+kevin | kevin
+PACIENTE
+sofia | sofia
